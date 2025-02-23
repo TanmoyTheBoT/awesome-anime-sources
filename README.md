@@ -49,30 +49,22 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 ## ANIME
 
 ### Streaming
-* [9anime.to](https://www2.9anime.to/)
 * [animation.filmarchives.jp](https://animation.filmarchives.jp/en/) - National Film Archive of Japan
 * [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
 * [animebuff.ru](https://animebuff.ru/) - Russian dubbing
-* [animedao.to](https://animedao.to/)
 * [animeflv.net](https://animeflv.net/) - Spanish
 * [animehub.ac](https://animehub.ac)
 * [animelon.com](https://animelon.com)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [animepahe.com](https://animepahe.com/)
 * [anime-planet.com](https://www.anime-planet.com/)
-* [animeshow.tv](https://animeshow.tv)
 * [animetake.tv](https://animetake.tv)
-* [anitube.site](https://www.anitube.site/)
-* [animevibe.ru](https://animevibe.ru/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
-* [animedubbed.me](https://animedubbed.me/)
 * [justdubs.org](https://justdubs.org)
 * [kawaiifu.com](https://kawaiifu.com)
 * [kaa.si](https://kaa.si)
-* [kimcartoon.to](https://kimcartoon.to)
 * [proxer.me](https://proxer.me) - Contains German Subs
-* [simpleyaweeb.com](https://simplyaweeb.com/series/)
 * [otaku-streamers.com](https://otaku-streamers.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
