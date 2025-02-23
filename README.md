@@ -1,4 +1,4 @@
-# awesome-anime-sources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Anime Sources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of all things anime - streaming/downloading/reading/tracking/forums.
 
@@ -74,7 +74,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
-* [aniwatch.to](https://aniwatch.to) Previously (zoro.to // sanji.to)
+* [hianime.to](https://hianime.to/) Previously (zoro.to // sanji.to // aniwatch.to)
 * [AniLibria.TV](https://anilibria.tv/) - Russian dubbing
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
     * [AniLibria.TV](https://wtf2.anilibria.cf/) - mirror AniLibria.TV
@@ -84,7 +84,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [AniStar.org](https://anistar.org) - Russian dubbing
    * [AniStar.org](https://anistar.ew.r.appspot.com/)  - mirror AniStar.org
 * [AnimeSub.lt](https://animesub.lt) - Contains Lithuanian Dubs/Subs
-
+* [Kaido.cc](https://kaido.cc/)
+* [w4.kissanimes.cc](https://w4.kissanimes.cc/)
 
 ### Downloading
 
@@ -241,6 +242,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### Mobile
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
+* [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 * [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) Fork of Tachiyomi but it has way better ui than tachiyomi
 * [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
 * [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
@@ -286,3 +288,5 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [LNReader](https://github.com/LNReader/lnreader)
 * [QuickNovel](https://github.com/LagradOst/QuickNovel)
 * [Shosetsu](https://shosetsu.app/)
+
+⬆️ [**Back to Top**](#contents)
