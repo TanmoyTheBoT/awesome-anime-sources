@@ -14,6 +14,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * Free anime websites are always struggling with copyright claims, file an issue if a broken link is encountered.
 * I am **NOT** promoting the use of free anime websites by any means.
 
+⭐ [Star on GitHub](https://github.com/TanmoyTheBoT/awesome-anime-sources)
+&bull;
+🤝 [Contribute](https://tanmoythebot.github.io/awesome-anime-sources/#/contributing)
 
 # Contents
 * [Anime](#Anime)
